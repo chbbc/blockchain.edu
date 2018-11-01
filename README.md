@@ -1,5 +1,13 @@
 # blockchain.edu
-Scripts para demonstração de utilização da blockchain
+Artigos, links e scripts para demonstração de utilização da blockchain.
+
+## Artigos
+
+**Blockchain Service Provider**
+https://medium.com/@carlos_49934/blockchain-service-providers-66c6d5c33a65
+
+O papel desse tipo e serviço em levar os benefícios da blockchain às pessoas sem que elas precisem se apropriar da tecnologia ou terem que investir diretamente em criptomoedas.
+
 
 ## Proof of Work
 
