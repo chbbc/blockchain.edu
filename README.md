@@ -47,7 +47,7 @@ Aguarde...
 Duração do script: 1.4352149963379 segundos
 ```
 
-**Links Diversos**
+## Links Úteis
 
 Desenvolvimento Solidity
 
