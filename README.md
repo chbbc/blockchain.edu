@@ -47,4 +47,26 @@ Aguarde...
 Duração do script: 1.4352149963379 segundos
 ```
 
+**Links Diversos**
 
+Desenvolvimento Solidity
+
+http://remix.ethereum.org
+
+Token padrão ERC20 e alguma de suas variações
+
+https://github.com/ConsenSys/Tokens/tree/master/contracts/eip20	
+
+https://github.com/dvdiegoviana/Solidity_Recife_Pratica	
+
+Como consultar URL a partir de um Smart Contract
+
+https://ethereum.stackexchange.com/questions/2/how-can-an-ethereum-contract-get-data-from-a-website
+
+API Javascript do Ethereum
+
+https://github.com/ethereum/wiki/wiki/JavaScript-API	
+	
+Decompilador de bytecode para Solidity
+
+https://ethervm.io/decompile
